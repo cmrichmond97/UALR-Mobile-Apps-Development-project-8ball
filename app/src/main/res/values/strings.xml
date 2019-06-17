@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Magic 8 Ball</string>
+    <string name="initialMessage">Shake To Receive Guidance</string>
+</resources>
